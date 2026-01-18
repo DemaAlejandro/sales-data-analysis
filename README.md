@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-Este proyecto contiene un análisis exhaustivo de datos de ventas semanales correspondiente a un período de 50 semanas (octubre 2012 - septiembre 2013). El análisis está implementado en un Jupyter Notebook que examina tendencias, cambios drásticos y patrones de compra según género y franja horaria.
+Este repositorio fue creado automáticamente usando **MCP (Model Context Protocol) de GitHub en VSCode**. Contiene un análisis exhaustivo de datos de ventas semanales correspondiente a un período de 50 semanas (octubre 2012 - septiembre 2013). El análisis está implementado en un Jupyter Notebook que examina tendencias, cambios drásticos y patrones de compra según género y franja horaria.
 
 ## Preguntas de Investigación
 
